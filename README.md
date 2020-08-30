@@ -1,10 +1,11 @@
 # jooble_test_task
 
-How to:
+# How to:
 
-# 1
+## 1
 pip install --upgrade pip
+
 pip install -r requirements.txt
 
-# 2
+## 2
 python main.py
